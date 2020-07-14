@@ -1,4 +1,5 @@
 /DemoTestCase.class
+<<<<<<< HEAD
 /DropDownDemo.class
 /FIndByLink.class
 /Interface/
@@ -6,3 +7,13 @@
 /TableDemo.class
 /TakeScreesnShot.class
 /com/
+=======
+/Interface/
+/com/
+/DropDownDemo.class
+/FIndByLink.class
+/PropertyReader.class
+/TableDemo.class
+/TakeScreesnShot.class
+/Demo.class
+>>>>>>> 950bd1aa3e0fe06c5e2d038c8395d113907d7de2
